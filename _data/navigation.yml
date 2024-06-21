@@ -7,11 +7,8 @@ main:
   - title: "科研经验"
     url: /experience/
         
-  - title: "Blog Posts"
+  - title: "常用资源"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
+  - title: "培养文件"
     url: /markdown/
