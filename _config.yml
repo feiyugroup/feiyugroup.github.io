@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Brain Atlas and Brain-Inspired Intelligence Laboratory"
   location         : "Beijing, China"
-  employer         : "Institute of Automation, Chinese Academy of Sciences"
+  employer         : "Institute of Automation（CAS）"
   uri              : # URL
   email            : # "none@example.org" 
 
@@ -246,7 +246,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: 成果展示
     values:
       layout: single
       author_profile: true
