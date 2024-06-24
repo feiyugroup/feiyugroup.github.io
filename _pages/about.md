@@ -28,11 +28,11 @@ redirect_from:
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <div style="text-align: center; margin: 10px;">
-    <img src="shan.png" alt="余山" width="100" style="border-radius: 50%;"><br>
+    <img src="{{ "/images/shan.png" | prepend: base_path }}" alt="余山" width="100" style="border-radius: 50%;"><br>
     余山 研究员
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="chen.png" alt="陈阳" width="100" style="border-radius: 50%;"><br>
+    <img src="{{ "/images/chen.png" | prepend: base_path }}" alt="陈阳" width="100" style="border-radius: 50%;"><br>
     陈阳 副研究员
   </div>
 </div>
