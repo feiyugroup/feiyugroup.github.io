@@ -2,7 +2,6 @@
 main:
   - title: "成果展示"
     url: /publications/
-
     
   - title: "科研经验"
     url: /experience/
