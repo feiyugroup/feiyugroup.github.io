@@ -58,14 +58,14 @@ redirect_from:
 <div style="display:flex; flex-wrap:wrap; justify-content:space-around; align-items:flex-start;">
   <div style="margin:10px;">
     <img src="{{ "/images/tuandui2.jpg" | prepend: base_path }}" alt="Image 2" style="width:50%;"><br>
-    <p style="text-align:center;">图片描述2</p>
+    <p style="text-align:center;"></p>
   </div>
   <div style="margin:10px;">
     <img src="{{ "/images/tuandui3.jpg" | prepend: base_path }}" alt="Image 3" style="width:50%;"><br>
-    <p style="text-align:center;">图片描述3</p>
+    <p style="text-align:center;"></p>
   </div>
   <div style="margin:10px;">
     <img src="{{ "/images/tuandui4.jpg" | prepend: base_path }}" alt="Image 4" style="width:50%;"><br>
-    <p style="text-align:center;">图片描述4</p>
+    <p style="text-align:center;"></p>
   </div>
 </div>
