@@ -55,3 +55,21 @@ redirect_from:
 
 ## ⛰️ 团队风采
 
+<div style="display:flex; flex-wrap:wrap; justify-content:space-around; align-items:flex-start;">
+  <div style="margin:10px;">
+    <img src="{{ "/images/tuandui1.jpg" | prepend: base_path }}" alt="Image 1" style="width:100%;"><br>
+    <p style="text-align:center;">图片描述1</p>
+  </div>
+  <div style="margin:10px;">
+    <img src="{{ "/images/tuandui2.jpg" | prepend: base_path }}" alt="Image 2" style="width:100%;"><br>
+    <p style="text-align:center;">图片描述2</p>
+  </div>
+  <div style="margin:10px;">
+    <img src="{{ "/images/tuandui3.jpg" | prepend: base_path }}" alt="Image 3" style="width:100%;"><br>
+    <p style="text-align:center;">图片描述3</p>
+  </div>
+  <div style="margin:10px;">
+    <img src="{{ "/images/tuandui4.jpg" | prepend: base_path }}" alt="Image 4" style="width:100%;"><br>
+    <p style="text-align:center;">图片描述4</p>
+  </div>
+</div>
