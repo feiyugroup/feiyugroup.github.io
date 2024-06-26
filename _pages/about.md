@@ -55,17 +55,17 @@ redirect_from:
 
 ## ⛰️ 团队风采
 
-<div style="display:flex; flex-wrap:wrap; justify-content:space-around; align-items:flex-start;">
-  <div style="margin:10px;">
-    <img src="{{ "/images/tuandui2.jpg" | prepend: base_path }}" alt="Image 2" style="width:50%;"><br>
-    <p style="text-align:center;"></p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1 1 300px; margin: 10px;">
+    <img src="{{ "/images/tuandui2.jpg" | prepend: base_path }}" alt="Image 2" style="width: 100%; display: block; height: auto;"><br>
+    <p style="text-align: center;"></p>
   </div>
-  <div style="margin:10px;">
-    <img src="{{ "/images/tuandui3.jpg" | prepend: base_path }}" alt="Image 3" style="width:50%;"><br>
-    <p style="text-align:center;"></p>
+  <div style="flex: 1 1 300px; margin: 10px;">
+    <img src="{{ "/images/tuandui3.jpg" | prepend: base_path }}" alt="Image 3" style="width: 100%; display: block; height: auto;"><br>
+    <p style="text-align: center;"></p>
   </div>
-  <div style="margin:10px;">
-    <img src="{{ "/images/tuandui4.jpg" | prepend: base_path }}" alt="Image 4" style="width:50%;"><br>
-    <p style="text-align:center;"></p>
+  <div style="flex: 1 1 300px; margin: 10px;">
+    <img src="{{ "/images/tuandui4.jpg" | prepend: base_path }}" alt="Image 4" style="width: 100%; display: block; height: auto;"><br>
+    <p style="text-align: center;"></p>
   </div>
 </div>
